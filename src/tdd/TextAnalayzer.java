@@ -1,5 +1,7 @@
 package tdd;
 
+//comments
+
 public class TextAnalayzer {
 
     private int rows;
